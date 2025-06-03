@@ -9,6 +9,12 @@ import XCTest
 @testable import TestCICD
 
 final class TestCICDTests: XCTestCase {
+    
+    
+    func testContentViewInitialization() throws {
+        let contentView = ContentView()
+        XCTAssertNotNil(contentView.body)
+    }
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
