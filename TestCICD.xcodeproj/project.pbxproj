@@ -14,6 +14,7 @@
 		5CBD18AD2DEF5A8600A04370 /* TestCICDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBD18AC2DEF5A8600A04370 /* TestCICDTests.swift */; };
 		5CBD18B72DEF5A8600A04370 /* TestCICDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBD18B62DEF5A8600A04370 /* TestCICDUITests.swift */; };
 		5CBD18B92DEF5A8600A04370 /* TestCICDUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBD18B82DEF5A8600A04370 /* TestCICDUITestsLaunchTests.swift */; };
+		5CBD18C72DEF91A900A04370 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBD189D2DEF5A8400A04370 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -276,6 +277,7 @@
 			files = (
 				5CBD18B92DEF5A8600A04370 /* TestCICDUITestsLaunchTests.swift in Sources */,
 				5CBD18B72DEF5A8600A04370 /* TestCICDUITests.swift in Sources */,
+				5CBD18C72DEF91A900A04370 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
